@@ -1,7 +1,5 @@
 # Expense Management System
 
-# Expense Management System
-
 This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
 
 
@@ -32,4 +30,5 @@ This project is an expense management system that consists of a Streamlit fronte
 1. **Run the Streamlit app:**:   
    ```commandline
     streamlit run frontend/app.py
+
    ```
